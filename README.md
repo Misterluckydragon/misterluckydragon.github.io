@@ -4,8 +4,8 @@
 >I do not have a computer science background so do excuse the monotonous theme 👟
 
 ### Socials
-Youtube:[Misterrluckydragon](https://www.youtube.com/@misterrluckydragon)
-Instagram:.[Mister.lucky.dragon](https://www.instagram.com/mister.lucky.dragon/)
+Youtube:[Misterrluckydragon](https://www.youtube.com/@misterrluckydragon)  
+Instagram:[Mister.lucky.dragon](https://www.instagram.com/mister.lucky.dragon/)
 
 
 
