@@ -20,8 +20,8 @@ They have many fans
     <style>
     #one{
         width: 200px;
-        height: 200px;
-        border: 1px solid blue;
+        height: 100px;
+        border: 1px solid black;
     }
     button{
         width: 200px;
