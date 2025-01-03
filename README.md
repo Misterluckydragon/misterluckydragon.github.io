@@ -11,7 +11,8 @@ Instagram: [Mister.lucky.dragon](https://www.instagram.com/mister.lucky.dragon/)
 <details><br/>
 <summary>How do celebrities stay cool?</summary>
 
-They have many fans<br/>
+They have many fans
+</details>  
 
 ### cookie clicker (in progress)<br/>
 
