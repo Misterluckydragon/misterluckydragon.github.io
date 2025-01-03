@@ -13,19 +13,9 @@ Instagram: [Mister.lucky.dragon](https://www.instagram.com/mister.lucky.dragon/)
 
 They have many fans<br/>
 
-<br/>
-### cookie clicker (in progress)
-
-
-
-
-
-
-
-
+### cookie clicker (in progress)<br/>
 
 </details>
-
 <head>
     <style>
     #one{
@@ -55,7 +45,4 @@ They have many fans<br/>
         </body>
             
 </html>
-
-
-
 
