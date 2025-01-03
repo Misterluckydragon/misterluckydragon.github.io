@@ -24,9 +24,7 @@ They have many fans
         border: 1px solid black;
     }
     button{
-        width: 200px;
-        background: yellow;
-        box-shadow: 4px 4px 4px #333;
+        ![cookies](/../main/assets/images/—Pngtree—three chocolate chips cookies isolated_5739793.png)
     }
         </style>
     <script type ="text/javascript">
