@@ -30,7 +30,7 @@ They have many fans
     #one{
          }
     button{
-        ![cookies](/../main/assets/images/—Pngtree—three chocolate chips cookies isolated_5739793.png)
+        ![cookies](—Pngtree—three chocolate chips cookies isolated_5739793.png)
     }
         </style>
     <script type ="text/javascript">
