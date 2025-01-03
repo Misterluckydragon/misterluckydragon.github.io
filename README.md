@@ -16,7 +16,7 @@ They have many fans
 
 ### Cookie Clicker (in progress)<br/>
 
-</details>
+
 <head>
     <style>
     #one{
