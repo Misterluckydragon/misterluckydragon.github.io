@@ -19,10 +19,7 @@ They have many fans
 <head>
     <style>
     #one{
-        width: 200px;
-        height: 100px;
-        border: 1px solid black;
-    }
+         }
     button{
         ![cookies](/../main/assets/images/—Pngtree—three chocolate chips cookies isolated_5739793.png)
     }
@@ -36,7 +33,7 @@ They have many fans
                 one.innerHTML = "You clicked the button"
             } else {
                 i += 1;
-                one.innerHTML = "You clicked the button " + i + " time/s."
+                one.innerHTML = "You clicked the button " + i + " times."
             }
     }
    </script>
