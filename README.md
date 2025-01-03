@@ -20,7 +20,7 @@ They have many fans
     #one{
          }
     button{
-        ![cookies](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzN3xKdvjpr4LSUjaJshNOYA2No9uVhNMPSw&s)
+        ![Screenshot of cookies.](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzN3xKdvjpr4LSUjaJshNOYA2No9uVhNMPSw&s)
     }
         </style>
     <script type ="text/javascript">
