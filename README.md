@@ -8,12 +8,11 @@
 Youtube: [Misterrluckydragon](https://www.youtube.com/@misterrluckydragon)  
 Instagram: [Mister.lucky.dragon](https://www.instagram.com/mister.lucky.dragon/)
 
-<details><br/>
-<summary>How do celebrities stay cool?</summary>
+<details>
+<summary>How do celebrities stay cool?</summary><br/>  
 
 They have many fans<br/>    
-<br/>
-<br/>
+
 
 
 
