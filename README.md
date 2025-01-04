@@ -1,5 +1,5 @@
 # Mister Lucky Dragon aka **Chris Tse**  
-* * It is a common misconception that the animals assigned by year are the only signs, and many Western descriptions of Chinese astrology only reference this system. There are also animal signs assigned by month (called "inner animals"), by day (called "true animals"), and hours (called "secret animals"). * *
+* *It is a common misconception that the animals assigned by year are the only signs, and many Western descriptions of Chinese astrology only reference this system. There are also animal signs assigned by month (called "inner animals"), by day (called "true animals"), and hours (called "secret animals").* *
 **Hello, welcome to my website!**
 >I do not have a computer science background so do excuse the monotonous theme 👟
 
