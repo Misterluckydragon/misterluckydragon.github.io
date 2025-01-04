@@ -1,5 +1,5 @@
 # Mister Lucky Dragon aka **Chris Tse**  
-*龍的傳人 (Decendants of The Dragon)* <br/>
+
 
 **Hello, welcome to my website!**
 >I do not have a computer science background so do excuse the monotonous theme 👟
