@@ -9,7 +9,7 @@
 Youtube: [Misterrluckydragon](https://www.youtube.com/@misterrluckydragon)  
 Instagram: [Mister.lucky.dragon](https://www.instagram.com/mister.lucky.dragon/)
 
-- [ ] Drink water
+- [x] Drink water
 - [ ] Update website
 
 
